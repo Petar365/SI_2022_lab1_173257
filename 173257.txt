@@ -1,0 +1,73 @@
+$ git clone https://github.com/Petar365/SI_2022_lab1_173257.git
+
+$ CD SI_2022_lab1_173257
+
+$ git status
+
+$ git add shopping_list.txt
+
+$ git status
+
+$ git commit -m "Add 5 items to shopping list"
+
+$ git status
+
+$ git add shopping_list.txt
+
+$ git status
+
+$ git commit -m "Add quantities to the items"
+
+$ git checkout -b branch1
+
+$ git checkout -b branch2
+
+$ git branch
+
+$ git push --set-upstream origin branch1
+
+$ git push --set-upstream origin branch2
+
+$ git checkout branch1
+
+$ git add shopping_list.txt
+
+$ git commit -m "Change quantity of item #5"
+
+$ git checkout master
+
+$ git add shopping_list.txt
+
+$ git commit -m "Change quantity of item #2"
+
+$ git push
+
+$ git checkout branch2
+
+$ git add shopping_list.txt
+
+$ git commit -m "Modify item #4"
+
+$ git add shopping_list.txt
+
+$ git commit --amend -m "Modify item #4 and add item #6"
+
+$ git checkout master
+
+$ git merge branch1
+
+$ git merge branch2
+
+$ git add.
+
+$ git commit -m "Addresing conflict"
+
+$ git merge branch2
+
+$ git push
+
+$ git add .
+
+$ git commit -m "Add docs"
+
+$ git push 

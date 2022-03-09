@@ -1,0 +1,5 @@
+1: Milk
+2: Bread
+3: Juice
+4: Cereal
+5: Chips

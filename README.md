@@ -1,1 +1,1 @@
-# SI_2022_lab1_173257
+# Petar Milchevski 173257

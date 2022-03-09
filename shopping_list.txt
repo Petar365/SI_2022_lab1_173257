@@ -2,4 +2,4 @@
 2: Bread x3
 3: Juice x2
 4: Cereal x1
-5: Chips x4
+5: Chips x1

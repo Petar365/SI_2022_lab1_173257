@@ -1,5 +1,7 @@
 1: Milk x2
 2: Bread x5
 3: Juice x2
-4: Cereal x1
-5: Chips x1
+4: Cereal x5
+5: Chips x4
+6: Cigaretes x1
+
